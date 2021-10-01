@@ -7,5 +7,5 @@ Don't know why you'd ever want to do this, but here you go.
 Current Features:
 - Removes all Role Icons from the chat and guild member list.
 
-![before](https://imgur.com/yY2Vc4v)
-![after](https://imgur.com/wKzwyQt)
+![before](https://i.imgur.com/yY2Vc4v.png)
+![after](https://i.imgur.com/wKzwyQt.png)
