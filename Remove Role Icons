@@ -1,0 +1,8 @@
+/**
+ * Remove the Role Icons that Discord added for servers
+ * Description: Don't know why you'd ever want to do this, but here you go.
+ */
+
+[class*="roleIcon"] {
+    display: none;
+}
